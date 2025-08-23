@@ -42,7 +42,7 @@ HTML, CSS (Jinja2) for frontend
 
 Clone this repository
 
-git clone https://github.com/your-username/Breast-Cancer-Prediction-using-ML.git
+git clone https://github.com/pinkaofc/Breast-Cancer-Prediction-using-ML.git
 cd Breast-Cancer-Prediction-using-ML
 
 
